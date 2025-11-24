@@ -29,7 +29,7 @@ async function iniciarBusca() {
 
   if (!termoBusca) {
     // Se a busca for vazia, não exibe nada.
-    return;
+    renderizarCards(dados);
   }
 
   const resultados = dados.filter(
@@ -66,3 +66,4 @@ function renderizarCards(dados) {
     cardContainer.appendChild(article);
   }
 }
+
