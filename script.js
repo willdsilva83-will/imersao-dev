@@ -39,7 +39,8 @@ async function iniciarBusca() {
   if (resultados.length > 0) {
     renderizarCards(resultados);
   } else {
-    cardContainer.innerHTML = "<p>Nenhuma linguagem encontrada.</p>";
+    //cardContainer.innerHTML = "<p>Nenhuma linguagem encontrada.</p>";
+    renderizarCards(dados);
   }
 }
 
@@ -53,8 +54,9 @@ function renderizarCards(dados) {
       <div class="box-dia">
       <h2 class="dia">${dado.DataOracao}</h2>
       <img src="${dado.Imagem}" alt="${dado.alt}"/>
-      <p class="versiculo">${dado.Versiculo}</p>
-      <a href=${dado.link} target="_blank">Consultar Versículo</a>
+      <div class="versiculo">
+      <p>${dado.Versiculo}</p>
+      <a href=${dado.link} target="_blank">Consultar Versículo</a></div>
       </div>
       <div class="box-oracao">
       <h3>VAMOS ORAR</h3>
@@ -66,4 +68,3 @@ function renderizarCards(dados) {
     cardContainer.appendChild(article);
   }
 }
-
