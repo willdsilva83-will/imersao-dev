@@ -1,0 +1,79 @@
+[
+  {
+    "DataOracao": "Segunda",
+    "TituloOracao": "Gratidão pela vida",
+    "Versiculo": "Salmos 118:24 – Este é o dia que o Senhor fez; regozijemo-nos e alegremo-nos nele.",
+    "Imagem": "images/segunda.png",
+    "alt": "Menino segurando um pássaro.",
+    "Paragrafo1": "Meu querido e amado Deus, obrigado por me dar mais um dia cheio de vida e alegria.",
+    "Paragrafo2": "Senhor Jesus, quero aprender a ser feliz com as pequenas coisas, como brincar, estudar e sorrir com meus amigos e família.",
+    "Paragrafo3": "Obrigado paizinho, ajuda-me a lembrar que este dia é Teu e que posso viver com gratidão no coração, em nome de Jesus! Amém.",
+    "link": "https://www.bibliaon.com/versiculo/salmos_118_24"
+  },
+  {
+    "DataOracao": "Terça",
+    "TituloOracao": "Bondade com os outros",
+    "Versiculo": "Efésios 4:32 – Sejam bondosos e compassivos uns para com os outros.",
+    "Imagem": "images/terca.png",
+    "alt": "Menina dividindo um lanche com um colega, num jardim.",
+    "Paragrafo1": "Meu querido e amado Deus, ensina-me a tratar todos com amor e respeito, assim como Tu fizeste.",
+    "Paragrafo2": "Senhor Jesus, ajuda-me a perdoar quando alguém me magoar e a oferecer sempre palavras de carinho e amizade.",
+    "Paragrafo3": "Obrigado paizinho, que eu seja uma luz para meus colegas e familiares, mostrando bondade em tudo que faço, em nome de Jesus! Amém.",
+    "link": "https://www.bibliaon.com/versiculo/efesios_4_32"
+  },
+  {
+    "DataOracao": "Quarta",
+    "TituloOracao": "Coragem e confiança",
+    "Versiculo": "Salmos 27:1 – O Senhor é a minha luz e a minha salvação; de quem terei medo?",
+    "Imagem": "images/quarta.png",
+    "alt": "Menino com um capa no trampolim de uma piscina.",
+    "Paragrafo1": "Meu querido e amado Deus, às vezes eu sinto medo, mas sei que Tu estás comigo e me proteges.",
+    "Paragrafo2": "Senhor Jesus, dá-me coragem para enfrentar os desafios da escola, da vida e até dos meus pensamentos.",
+    "Paragrafo3": "Obrigado paizinho, quero confiar sempre em Ti, porque sei que és minha luz e minha salvação, em nome de Jesus! Amém.",
+    "link": "https://www.bibliaon.com/versiculo/salmos_27_1"
+  },
+  {
+    "DataOracao": "Quinta",
+    "TituloOracao": "Obediência e respeito",
+    "Versiculo": "Efésios 6:1 – Filhos, obedeçam a seus pais no Senhor, pois isso é justo.",
+    "Imagem": "images/quinta.png",
+    "alt": "Filha entregando um desenho para o pai.",
+    "Paragrafo1": "Meu querido e amado Deus, ajuda-me a ouvir e obedecer meus pais e professores, porque sei que isso agrada ao Senhor.",
+    "Paragrafo2": "Senhor Jesus, ensina-me a respeitar as pessoas, mesmo quando penso diferente delas.",
+    "Paragrafo3": "Obrigado paizinho, quero ser um filho obediente e amoroso, mostrando que sigo os Teus ensinamentos, em nome de Jesus! Amém.",
+    "link": "https://www.bibliaon.com/versiculo/efesios_6_1"
+  },
+  {
+    "DataOracao": "Sexta",
+    "TituloOracao": "Alegria no coração",
+    "Versiculo": "Neemias 8:10 – A alegria do Senhor é a nossa força.",
+    "Imagem": "images/sexta.png",
+    "alt": "Menina brincando na rua com água de chuva.",
+    "Paragrafo1": "Meu querido e amado Deus, enche meu coração de alegria e paz, para que eu viva feliz todos os dias.",
+    "Paragrafo2": "Senhor Jesus, quero sorrir e compartilhar essa alegria com meus amigos e familiares.",
+    "Paragrafo3": "Obrigado paizinho, que a Tua alegria seja minha força em todos os momentos, em nome de Jesus! Amém.",
+    "link": "https://www.bibliaon.com/versiculo/neemias_8_10"
+  },
+  {
+    "DataOracao": "Sábado",
+    "TituloOracao": "Cuidar da criação",
+    "Versiculo": "Gênesis 2:15 – O Senhor Deus colocou o homem no jardim para cuidar dele.",
+    "Imagem": "images/sabado.png",
+    "alt": "Menina regando um flor no jardim, perto de um cachorro e um gato",
+    "Paragrafo1": "Meu querido e amado Deus, ensina-me a cuidar da natureza, dos animais e das pessoas ao meu redor.",
+    "Paragrafo2": "Senhor Jesus, quero aprender a não desperdiçar água, a respeitar os animais e a valorizar cada flor e árvore.",
+    "Paragrafo3": "Obrigado paizinho, que eu seja responsável com o mundo que Tu criaste, em nome de Jesus! Amém.",
+    "link": "https://www.bibliaon.com/versiculo/genesis_2_15"
+  },
+  {
+    "DataOracao": "Domingo",
+    "TituloOracao": "Louvor e adoração",
+    "Versiculo": "Salmos 150:6 – Tudo o que tem fôlego louve ao Senhor.",
+    "Imagem": "images/domingo.png",
+    "alt": "Crianças louvando ao Senhor num parque gramado.",
+    "Paragrafo1": "Meu querido e amado Deus, hoje quero cantar e louvar o Teu nome com todo o meu coração.",
+    "Paragrafo2": "Senhor Jesus, que minha voz e minhas atitudes sejam um louvor que alegra o Teu coração.",
+    "Paragrafo3": "Obrigado paizinho, obrigado por me dar vida e fôlego para Te adorar, em nome de Jesus! Amém.",
+    "link": "https://www.bibliaon.com/versiculo/salmos_150_6"
+  }
+]
